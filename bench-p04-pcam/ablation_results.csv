@@ -1,0 +1,6 @@
+Method,Retrieval Delta
+Uniform Pi baseline,0.0
+Fisher Only,0.17333333333333334
+Hessian Only,-0.023333333333333307
+Static Hybrid,0.0566666666666667
+Hybrid Gated (Final),-0.023333333333333307

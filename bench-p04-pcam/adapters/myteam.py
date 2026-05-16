@@ -28,7 +28,7 @@ import numpy as np
 from adapter import Adapter
 
 # --- Tunable ---
-AMP_POWER = 2.0   # amplifies variance of h_inv diagonal; try 1.5, 2.0, 2.5, 3.0
+AMP_POWER = 1.5   # amplifies variance of h_inv diagonal; try 1.5, 2.0, 2.5, 3.0
 HIGH_CONF = 0.65  # above this → pure anisotropy (was 0.85)
 LOW_CONF  = 0.35  # below this → pure Fisher     (was 0.50)
 # ---------------
